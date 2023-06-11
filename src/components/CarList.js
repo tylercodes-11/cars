@@ -1,6 +1,6 @@
 function CarList() {
     return (
-      <div>CarValue</div>
+      <div>CarList</div>
     )
   }
   

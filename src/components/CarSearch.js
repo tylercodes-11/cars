@@ -1,6 +1,6 @@
 function CarSearch() {
     return (
-      <div>CarValue</div>
+      <div>CarSearch</div>
     )
   }
   
