@@ -1,8 +1,7 @@
-import React from 'react';
-import { CarForm } from './components/CarForm';
-import { CarSearch } from './components/CarSearch';
-import { CarList} from './components/CarList';
-import { CarValue } from './components/CarValue';
+import CarForm from './components/CarForm';
+import CarSearch from './components/CarSearch';
+import CarList from './components/CarList';
+import CarValue from './components/CarValue';
 
 
 function App() {
@@ -12,6 +11,9 @@ function App() {
         <CarList />
         <CarSearch />
         <CarValue />
-        </div>
-  )
+    
+   </div>
+  );
 }
+
+export default App;
